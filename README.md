@@ -1,6 +1,8 @@
 # VersaScout
 # ⚽ VersaScout: AI-Based Player Versatility Assessment
 
+![Interactive Plot Screenshot](images/Lable.png)
+
 This project uses machine learning to analyze and predict **positional flexibility** of FIFA players based on in-game attributes.
 
 With over 17,000 players from SoFIFA, our AI model evaluates each player's ability to perform in roles beyond their assigned position — uncovering **hidden tactical assets** like F. Valverde or J. Kimmich who fit multiple positions effectively.
