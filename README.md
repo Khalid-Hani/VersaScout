@@ -49,7 +49,7 @@ With over 17,000 players from SoFIFA, our AI model evaluates each player's abili
 ├── AdaptiveXI.ipynb              # Main Google Colab notebook
 ├── images/
 │   ├── top20_versatile_players.png
-│   └── interactive_plot.png
+│   └── insights.png
 ├── data/
 │   └── fifa_players.csv          # Your dataset (not uploaded here)
 ├── outputs/
