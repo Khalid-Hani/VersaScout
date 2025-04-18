@@ -21,11 +21,11 @@ With over 17,000 players from SoFIFA, our AI model evaluates each player's abili
 
 ### Top 20 Most Versatile Players (Matplotlib)
 
-![Top 20 Versatile Players](images/top20_versatile_players.png)
+![Top 20 Versatile Players](images/Top_20_Adapt.png)
 
 ### Interactive Plot (Plotly)
 
-![Interactive Plot Screenshot](images/interactive_plot.png)
+![Interactive Plot Screenshot](images/Top_20_Adapt.png)
 
 ---
 
