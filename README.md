@@ -25,7 +25,7 @@ With over 17,000 players from SoFIFA, our AI model evaluates each player's abili
 
 ### Some interesting insights south of the previous results
 
-![Interactive Plot Screenshot](images/insights .png)
+![Interactive Plot Screenshot](images/insights.png)
 
 ---
 
